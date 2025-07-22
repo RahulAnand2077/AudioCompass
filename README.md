@@ -31,8 +31,9 @@ To develop a machine learning–powered audio analyzer that can accurately:
 
 ✅ Accepts .wav or .mp3 audio input  
 ✅ Predicts:
-  1. 🎼 Musical *key & scale*
-  2. 🎵 *Tempo (BPM)*
+  🎼 Musical *key & scale*
+✅ Estimates:
+  🎵 *Tempo (BPM)*
 
 ---
 
