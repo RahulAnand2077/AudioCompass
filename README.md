@@ -1,6 +1,6 @@
 # 🎵 AudioCompass
 
-An *ML-powered audio analyzer* with *98%* accuracy that helps you understand audio at a glance.
+A *Deep Learning-powered audio analyzer* with *98%* accuracy that helps you understand audio at a glance.
 
 ---
 
